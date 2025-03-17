@@ -1,3 +1,4 @@
 "Goodbuy!"
 Line from user2
 user2 changed line3
+fixed critical bug
